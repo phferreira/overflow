@@ -9,23 +9,6 @@
 
 /* Reset */
 
-
-  nav ul {
-    float: right;
-    margin: 30px; }
-    nav ul li {
-      display: inline; }
-      nav ul li a {
-        color: #183026;
-        text-decoration: none;
-        padding: 10px 20px;
-        font: 18px "Open Sans Condensed", "Open Sans", Tahoma;
-        transition: all 0.5s;
-        font-weight: 700; }
-        nav ul li a:hore {
-          background: #762823;
-  }
-
   html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
     margin: 0;
     padding: 0;
